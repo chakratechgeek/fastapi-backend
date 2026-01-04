@@ -8,7 +8,7 @@ echo ""
 cd /home/app/fastapi-backend
 
 # Activate virtual environment
-source venv/bin/activate
+source .venv/bin/activate
 
 # Start the server
 echo "Starting uvicorn server on http://0.0.0.0:8001"
